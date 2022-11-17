@@ -1,0 +1,3 @@
+/Users/wugaoyuan/Documents/文稿 - WuGaoyuan的MacBook Pro/PlarformIO/Projects/STM32f103RCT6/cmake-build-debug/CMakeFiles/STM32f103RCT6.elf.dir
+/Users/wugaoyuan/Documents/文稿 - WuGaoyuan的MacBook Pro/PlarformIO/Projects/STM32f103RCT6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wugaoyuan/Documents/文稿 - WuGaoyuan的MacBook Pro/PlarformIO/Projects/STM32f103RCT6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

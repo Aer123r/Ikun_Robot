@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wugaoyuan/Documents/文稿 - WuGaoyuan的MacBook Pro/PlarformIO/Projects/STM32f103RCT6/Core/Startup/startup_stm32f103rctx.s
+
